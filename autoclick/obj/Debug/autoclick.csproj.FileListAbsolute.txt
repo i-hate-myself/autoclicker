@@ -1,0 +1,13 @@
+D:\code\autoclicker\autoclick\bin\Debug\autoclick.exe.config
+D:\code\autoclicker\autoclick\bin\Debug\autoclick.exe.manifest
+D:\code\autoclicker\autoclick\bin\Debug\autoclick.application
+D:\code\autoclicker\autoclick\bin\Debug\autoclick.exe
+D:\code\autoclicker\autoclick\bin\Debug\autoclick.pdb
+D:\code\autoclicker\autoclick\obj\Debug\autoclick.Form1.resources
+D:\code\autoclicker\autoclick\obj\Debug\autoclick.Properties.Resources.resources
+D:\code\autoclicker\autoclick\obj\Debug\autoclick.csproj.GenerateResource.cache
+D:\code\autoclicker\autoclick\obj\Debug\autoclick.csproj.CoreCompileInputs.cache
+D:\code\autoclicker\autoclick\obj\Debug\autoclick.exe.manifest
+D:\code\autoclicker\autoclick\obj\Debug\autoclick.application
+D:\code\autoclicker\autoclick\obj\Debug\autoclick.exe
+D:\code\autoclicker\autoclick\obj\Debug\autoclick.pdb
